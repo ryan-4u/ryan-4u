@@ -71,10 +71,17 @@ Manual badges to reflect core skill focus:
 
 ### 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/ryan-4u" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ryan-4u/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ryan-4u" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
+  <a href="[https://leetcode.com/your-leetcode/](https://leetcode.com/u/ryan-4u/)" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
